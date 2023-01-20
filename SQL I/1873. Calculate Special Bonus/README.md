@@ -1,3 +1,4 @@
+# 1873. Calculate Special Bonus
 Table: ```Employees```
 ```
 +-------------+---------+
